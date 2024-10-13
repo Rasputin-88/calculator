@@ -1,0 +1,60 @@
+
+.calc{
+    width:500px;
+    border:1px solid rgb(15, 71, 71);
+    padding:10px;
+    border-radius: 10px;
+    /* background: url('../../img/f0c55b045ebe0d04c1412f084b955604.jpg'); */
+    background: #ffffff;
+    position:relative;
+}
+
+/* .calc::before{
+    position:absolute;
+    content:'';
+    top:0;
+    left:0;
+    width: 100%;
+    height:100%;
+    background:rgba(8, 8, 8, 0.8);
+} */
+
+.input_wrap{
+    margin-bottom:20px;
+    display:flex;
+    width: 100%;
+}
+
+.checed{
+    margin-bottom:20px;
+    display:flex;
+    justify-content: center;
+}
+
+.check_wrap{
+    display:flex;
+}
+
+.radio{
+    margin-bottom:20px;
+    display:flex;
+    flex-direction: column;
+}
+
+span{
+    color:rgb(15, 71, 71);
+    display:block;
+}
+
+label{
+    color:rgb(15, 71, 71);  
+}
+
+h4{
+    color:rgb(15, 71, 71);   
+}
+
+.data{
+    display:flex;
+    flex-direction: column;
+}

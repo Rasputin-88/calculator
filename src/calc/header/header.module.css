@@ -1,0 +1,17 @@
+
+.header{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom:20px;
+}
+
+.header__tytle{
+
+}
+
+.header__tytle_text{
+    color:rgb(15, 71, 71);
+}
+
